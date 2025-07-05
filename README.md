@@ -30,7 +30,7 @@ This project is a simple Todo REST API built using Node.js core modules (`http` 
 
 ### Running the Server
 ```sh
-node server.js
+npm run build
 ```
 The server will start and listen on the port specified in your `.env` file.
 
